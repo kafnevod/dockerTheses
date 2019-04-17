@@ -13,6 +13,6 @@
 
 ## Не бойся больших объемов образов: 2Gb x 2 != 4Gb
 
-## Не таскай лишнего - используй Multistage build 
+## Не раздувай образ - используй Multistage build 
 
 ## Development Dockerfile и Production Dockerfle - две большие разницы 
